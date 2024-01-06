@@ -1,0 +1,20 @@
+{
+  "name": "Microfire_HABridge",
+  "keywords": "home assistant, esphome, espnow, lora",
+  "description": "Create a Home Assistant sensor from any hardware and send measurements with ESPNow or LoRa.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u-fire/HABridge.git"
+  },
+  "authors": [
+    {
+      "name": "Microfire LLC",
+      "email": "contact@microfire.co",
+      "url": "https://microfire.co",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
